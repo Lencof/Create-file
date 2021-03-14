@@ -6,7 +6,7 @@ Hi! BUGA
 '''
 
 # Open for 'w'riting
-f = opne('BUGA.txt', 'w') # name file
+f = open('BUGA.txt', 'w') # name file
 # Write text to file
 f.write(BUGA)
 # Close the file
