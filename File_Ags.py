@@ -6,7 +6,7 @@ Ags surprise
 '''
 
 # Open for 'w'riting
-f = opne('Ags.txt', 'w') # name file
+f = open('Ags.txt', 'w') # name file
 # Write text to file
 f.write(Ags)
 # Close the file
