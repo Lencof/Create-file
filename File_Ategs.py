@@ -1,17 +1,20 @@
-Caspa = '''
-Casps surprise
+# __Author__ __Lencof__
+# File_Ategs.py
+
+Ategs = '''
+Ategs surprise
 '''
 
 # Open for 'w'riting
-f = opne('Caspa.txt', 'w') # name file
+f = open('Ategs.txt', 'w') # name file
 # Write text to file
-f.write(Caspa)
+f.write(Ategs)
 # Close the file
 f.close()
 
 # if no mode is specified,
 # 'r'ead mode is assumed by default
-f = open('Caspa.txt') # name file
+f = open('Ategs.txt') # name file
 while True: # use True
     line = f.readline()
     # Zero length indicates EOF
