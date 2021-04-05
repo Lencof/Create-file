@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # Cam.py
 
+import os
+
 Cam = '''
 Grace
 '''
