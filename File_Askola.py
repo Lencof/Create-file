@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # File_Askola.py
 
+import os
+
 Askola = '''
 Hi!
 '''
