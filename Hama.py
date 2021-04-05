@@ -1,8 +1,8 @@
 # __Author__ __Lencof__
 # create_file.py
 
-# file name Hama
-# text description
+import os
+
 Hama = '''
 Hama
 '''
