@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # File_Cas.py
 
+import os
+
 Cas = '''
 Cas
 '''
