@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # Norton.py
 
+import os
+
 Norton = '''
 Norton
 '''
