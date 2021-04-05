@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # File_Zip.py
 
+import os
+
 Zip = '''
 Zip
 '''
