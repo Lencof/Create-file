@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # File_Ategs.py
 
+import os
+
 Ategs = '''
 Ategs surprise
 '''
