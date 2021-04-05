@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # File_Caspa.py
 
+import os
+
 Caspa = '''
 Casps surprise
 '''
