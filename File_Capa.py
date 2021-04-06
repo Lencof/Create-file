@@ -2,6 +2,7 @@
 # File_Capa.py
 
 import os
+import sys
 
 Capa = '''
 Hello Capa 
