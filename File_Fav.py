@@ -2,6 +2,7 @@
 # File_Fav.py
 
 import os
+import sys
 
 Fav = '''
 Fav
