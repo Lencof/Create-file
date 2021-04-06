@@ -2,6 +2,7 @@
 # File_Caspa.py
 
 import os
+import sys
 
 Caspa = '''
 Casps surprise
