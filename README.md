@@ -8,7 +8,7 @@ Download Python from this site go to this link and download https://www.python.o
 
 
 ## Install
-- Clone the repository `git clone https://github.com/Lencof/Python-game`
+- Clone the repository `git clone https://github.com/Lencof/Create-file`
 
 
 ## Use Pyinstaller
