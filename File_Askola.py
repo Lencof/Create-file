@@ -2,6 +2,7 @@
 # File_Askola.py
 
 import os
+import sys 
 
 Askola = '''
 Hi!
