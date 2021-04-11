@@ -2,6 +2,7 @@
 # create_file.py
 
 import os
+import sys 
 
 Hama = '''
 Hama
