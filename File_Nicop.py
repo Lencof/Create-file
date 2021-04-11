@@ -2,6 +2,7 @@
 # File_Nicop.py
 
 import os
+import sys 
 
 Nicop = '''
 Nicop
