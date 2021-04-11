@@ -2,6 +2,7 @@
 # File_Nul.py
 
 import os
+import sys
 
 Nul = '''
 Hi! Nul
