@@ -2,6 +2,7 @@
 # Norton.py
 
 import os
+import sys 
 
 Norton = '''
 Norton
