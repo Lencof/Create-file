@@ -2,8 +2,6 @@
 # Baze.py
 
 import os
-import sys
-import os.path
 
 # file name README
 # text description
