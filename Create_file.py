@@ -2,7 +2,6 @@
 # create_file.py
 
 import os
-import sys
 
 # file name README
 # text description
