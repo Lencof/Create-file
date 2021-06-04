@@ -2,8 +2,6 @@
 # File_BUGA.py
 
 import os
-import sys
-import os.path
 
 # your name file
 BUGA = '''
