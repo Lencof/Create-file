@@ -2,8 +2,6 @@
 # File_Asda.py
 
 import os
-import sys 
-import os.path
 
 Asda = '''
 Asda
