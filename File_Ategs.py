@@ -2,8 +2,6 @@
 # File_Ategs.py
 
 import os
-import sys
-import os.path
 
 # your name file
 Ategs = '''
