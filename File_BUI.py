@@ -2,8 +2,6 @@
 # File_BUI.py
 
 import os
-import sys
-import os.path
 
 # your name file
 BUI = '''
