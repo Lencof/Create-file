@@ -2,8 +2,6 @@
 # File_Askola.py
 
 import os
-import sys 
-import os.path
 
 Askola = '''
 Hi!
