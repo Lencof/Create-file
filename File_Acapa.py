@@ -2,8 +2,6 @@
 # File_Acapa.py
 
 import os
-import sys
-import os.path
 
 Acapa = '''
 Acapa
