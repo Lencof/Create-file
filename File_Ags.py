@@ -2,8 +2,6 @@
 # File_Ags.py
 
 import os
-import sys
-import os.path
 
 Ags = '''
 Ags surprise
