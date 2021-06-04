@@ -2,8 +2,6 @@
 # File_Aginx.py
 
 import os
-import sys
-import os.path
 
 Aginx = '''
 Aginx surprise
