@@ -2,8 +2,6 @@
 # File_Fav.py
 
 import os
-import sys
-import os.path
 
 Fav = '''
 Fav
