@@ -2,8 +2,6 @@
 # File_Box.py
 
 import os
-import sys 
-import os.path
 
 Box = '''
 Box surprise
