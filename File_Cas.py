@@ -2,8 +2,6 @@
 # File_Cas.py
 
 import os
-import sys
-import os.path
 
 Cas = '''
 Cas
