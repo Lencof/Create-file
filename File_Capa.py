@@ -2,8 +2,6 @@
 # File_Capa.py
 
 import os
-import sys
-import os.path
 
 Capa = '''
 Hello Capa 
