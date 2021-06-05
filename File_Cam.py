@@ -2,8 +2,6 @@
 # Cam.py
 
 import os
-import sys
-import os.path
 
 Cam = '''
 Grace
