@@ -2,8 +2,6 @@
 # File_Caspa.py
 
 import os
-import sys
-import os.path
 
 Caspa = '''
 Casps surprise
