@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # File_Asda.py
 
-import os
-
 Asda = '''
 Asda
 '''
