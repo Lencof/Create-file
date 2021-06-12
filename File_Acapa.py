@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # File_Acapa.py
 
-import os
-
 Acapa = '''
 Acapa
 '''
