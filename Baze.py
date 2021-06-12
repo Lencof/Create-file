@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # Baze.py
 
-import os
-
 # file name README
 # text description
 Baze = '''
