@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # Bit.py
 
-import os
-
 # file name README
 # text description
 Bit = '''
