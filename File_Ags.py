@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # File_Ags.py
 
-import os
-
 Ags = '''
 Ags surprise
 '''
