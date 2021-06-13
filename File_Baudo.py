@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # File_Baudo.py
 
-import os
-
 # your name file
 Baudo = '''
 Hi! Baudo
