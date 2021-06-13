@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # File_Capa.py
 
-import os
-
 Capa = '''
 Hello Capa 
 '''
