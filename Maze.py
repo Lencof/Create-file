@@ -1,10 +1,6 @@
 # __Author__ __Lencof__
 # Maze.py
 
-import os
-import sys
-import os.path
-
 # file name README
 # text description
 Maze = '''
