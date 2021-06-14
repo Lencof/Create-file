@@ -1,10 +1,6 @@
 # __Author__ __Lencof__
 # File_Nul.py
 
-import os
-import sys
-import os.path
-
 Nul = '''
 Hi! Nul
 '''
