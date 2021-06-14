@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # File_Fav.py
 
-import os
-
 Fav = '''
 Fav
 '''
