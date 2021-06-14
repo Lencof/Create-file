@@ -1,10 +1,6 @@
 # __Author__ __Lencof__
 # create_file.py
 
-import os
-import sys 
-import os.path
-
 Hama = '''
 Hama
 '''
