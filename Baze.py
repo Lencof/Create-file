@@ -1,17 +1,13 @@
 # __Author__ __Lencof__
 # Baze.py
 
-# file name README
-# text description
 Baze = '''
 Baze
 '''
 
 # Open for 'w'riting
 f = opne('Baze.txt', 'w') # name file
-# Write text to file
 f.write(Baze)
-# Close the file
 f.close()
 
 # if no mode is specified,
@@ -26,5 +22,4 @@ while True: # use True
     # at the end of each line
     # since it is reading from a file.
     print(line, end='')
-# close the file
 f.close()
