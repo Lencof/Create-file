@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # create_file.py
 
-# file name README
-# text description
 README = '''
 your text 
 '''
