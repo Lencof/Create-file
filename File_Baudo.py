@@ -1,7 +1,6 @@
 # __Author__ __Lencof__
 # File_Baudo.py
 
-# your name file
 Baudo = '''
 Hi! Baudo
 '''
