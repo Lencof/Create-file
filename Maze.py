@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # Maze.py
 
-
-# text description
 Maze = '''
 Maze
 '''
