@@ -1,7 +1,7 @@
 # __Author__ __Lencof__
 # Maze.py
 
-# file name README
+
 # text description
 Maze = '''
 Maze
