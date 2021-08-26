@@ -1,7 +1,7 @@
 # __Author__ __Lencof__
 # File_Ategs.py
 
-# your name file
+
 Ategs = '''
 Ategs surprise
 '''
