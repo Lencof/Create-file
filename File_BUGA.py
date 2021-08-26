@@ -1,7 +1,6 @@
 # __Author__ __Lencof__
 # File_BUGA.py
 
-# your name file
 BUGA = '''
 Hi! BUGA
 '''
