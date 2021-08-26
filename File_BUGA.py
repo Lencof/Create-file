@@ -5,8 +5,7 @@ BUGA = '''
 Hi! BUGA
 '''
 
-# Open for 'w'riting
-f = open('BUGA.txt', 'w') # name file
+f = open('BUGA.txt', 'w') 
 # Write text to file
 f.write(BUGA)
 # Close the file
