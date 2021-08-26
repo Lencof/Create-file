@@ -7,9 +7,7 @@ Ategs surprise
 
 
 f = open('Ategs.txt', 'w') 
-# Write text to file
 f.write(Ategs)
-# Close the file
 f.close()
 
 # if no mode is specified,
