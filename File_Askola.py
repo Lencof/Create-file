@@ -5,11 +5,8 @@ Askola = '''
 Hi!
 '''
 
-# Open for 'w'riting
-f = open('Askola.txt', 'w') # name file
-# Write text to file
+f = open('Askola.txt', 'w')
 f.write(Askola)
-# Close the file
 f.close()
 
 # if no mode is specified,
