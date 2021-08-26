@@ -1,13 +1,12 @@
 # __Author__ __Lencof__
 # File_Ategs.py
 
-
 Ategs = '''
 Ategs surprise
 '''
 
-# Open for 'w'riting
-f = open('Ategs.txt', 'w') # name file
+
+f = open('Ategs.txt', 'w') 
 # Write text to file
 f.write(Ategs)
 # Close the file
