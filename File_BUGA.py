@@ -6,9 +6,7 @@ Hi! BUGA
 '''
 
 f = open('BUGA.txt', 'w') 
-# Write text to file
 f.write(BUGA)
-# Close the file
 f.close()
 
 # if no mode is specified,
