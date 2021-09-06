@@ -22,4 +22,4 @@ while True: # use True
     # since it is reading from a file.
     print(line, end='')
 # close the file
-f.close() # close()
+f.close() 
