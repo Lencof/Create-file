@@ -12,8 +12,8 @@ f.close()
 
 # if no mode is specified,
 # 'r'ead mode is assumed by default
-f = open('Ags.txt') # name file
-while True: # use True
+f = open('Ags.txt')
+while True: 
     line = f.readline()
     # Zero length indicates EOF
     if len(line) == 0:
@@ -22,5 +22,4 @@ while True: # use True
     # at the end of each line
     # since it is reading from a file.
     print(line, end='')
-# close the file
 f.close() 
