@@ -5,8 +5,7 @@ BUI = '''
 BUI
 '''
 
-# Open for 'w'riting
-f = opne('BUI.txt', 'w') # name file
+f = opne('BUI.txt', 'w') 
 # Write text to file
 f.write(BUI)
 # Close the file
