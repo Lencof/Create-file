@@ -6,9 +6,7 @@ BUI
 '''
 
 f = opne('BUI.txt', 'w') 
-# Write text to file
 f.write(BUI)
-# Close the file
 f.close()
 
 # if no mode is specified,
