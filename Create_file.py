@@ -6,7 +6,7 @@ your text
 '''
 
 # Open for 'w'riting
-f = opne('README.txt', 'w') # name file
+f = open('README.txt', 'w') # name file
 # Write text to file
 f.write(README)
 # Close the file
