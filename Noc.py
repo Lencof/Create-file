@@ -8,7 +8,7 @@ Noc
 '''
 
 # Open for 'w'riting
-f = opne('Noc', 'w') # name file
+f = open('Noc', 'w') # name file
 # Write text to file
 f.write(Noc)
 # Close the file
