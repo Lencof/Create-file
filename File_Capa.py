@@ -6,7 +6,7 @@ Hello Capa
 '''
 
 # Open for 'w'riting
-f = opne('Capa.txt', 'w') # name file
+f = open('Capa.txt', 'w') # name file
 # Write text to file
 f.write(Capc)
 # Close the file
