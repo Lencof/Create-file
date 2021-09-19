@@ -5,7 +5,7 @@ BUI = '''
 BUI
 '''
 
-f = opne('BUI.txt', 'w') 
+f = open('BUI.txt', 'w') 
 f.write(BUI)
 f.close()
 
