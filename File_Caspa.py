@@ -6,7 +6,7 @@ Casps surprise
 '''
 
 # Open for 'w'riting
-f = opne('Caspa.txt', 'w') # name file
+f = open('Caspa.txt', 'w') # name file
 # Write text to file
 f.write(Caspa)
 # Close the file
