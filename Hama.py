@@ -6,7 +6,7 @@ Hama
 '''
 
 # Open for 'w'riting
-f = opne('Hama.txt', 'w') # name file
+f = open('Hama.txt', 'w') # name file
 # Write text to file
 f.write(Hama)
 # Close the file
