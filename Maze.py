@@ -6,7 +6,7 @@ Maze
 '''
 
 # Open for 'w'riting
-f = opne('Maze.txt', 'w') # name file
+f = open('Maze.txt', 'w') # name file
 # Write text to file
 f.write(Maze)
 # Close the file
