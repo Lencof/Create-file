@@ -7,7 +7,6 @@ Bit
 
 # Open for 'w'riting
 f = open('Bit.txt', 'w') 
-# Write text to file
 f.write(Bit)
 f.close()
 
