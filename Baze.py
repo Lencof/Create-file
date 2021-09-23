@@ -6,7 +6,7 @@ Baze
 '''
 
 # Open for 'w'riting
-f = open('Baze.txt', 'w') # name file
+f = open('Baze.txt', 'w') 
 f.write(Baze)
 f.close()
 
