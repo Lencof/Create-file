@@ -8,7 +8,6 @@ your text
 # Open for 'w'riting
 f = open('README.txt', 'w') 
 f.write(README)
-# Close the file
 f.close()
 
 # if no mode is specified,
