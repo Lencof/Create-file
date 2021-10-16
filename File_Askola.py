@@ -21,4 +21,4 @@ while True: # use True
     # at the end of each line
     # since it is reading from a file.
     print(line, end='')
-f.close() # close()
+f.close() 
