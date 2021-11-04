@@ -7,15 +7,13 @@ Norton
 
 # Open for 'w'riting
 f = open('Norton.txt', 'w') # name file
-# Write text to file
 f.write(Norton)
-# Close the file
 f.close()
 
 # if no mode is specified,
 # 'r'ead mode is assumed by default
 f = open('Norton.txt') # name file
-while True: # use True
+while True: 
     line = f.readline()
     # Zero length indicates EOF
     if len(line) == 0:
@@ -24,5 +22,4 @@ while True: # use True
     # at the end of each line
     # since it is reading from a file.
     print(line, end='')
-# close the file
-f.close() # close()
+f.close() 
