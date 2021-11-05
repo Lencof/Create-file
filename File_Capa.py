@@ -7,9 +7,7 @@ Hello Capa
 
 # Open for 'w'riting
 f = open('Capa.txt', 'w') # name file
-# Write text to file
 f.write(Capc)
-# Close the file
 f.close()
 
 # if no mode is specified,
@@ -24,5 +22,4 @@ while True: # use True
     # at the end of each line
     # since it is reading from a file.
     print(line, end='')
-# close the file
 f.close()
