@@ -9,7 +9,6 @@ Hama
 f = open('Hama.txt', 'w') # name file
 # Write text to file
 f.write(Hama)
-# Close the file
 f.close()
 
 # if no mode is specified,
