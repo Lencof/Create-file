@@ -1,7 +1,6 @@
 # __Author__ __Lencof__
 # Noc.py
 
-# file name README
 # text description
 Noc = '''
 Noc
