@@ -2,7 +2,7 @@
 # File_Capa.py
 
 Capa = '''
-Hello Capa 
+ Capa 
 '''
 
 # Open for 'w'riting
