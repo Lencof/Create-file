@@ -5,7 +5,6 @@ Baudo = '''
 Hi! Baudo
 '''
 
-# Open for 'w'riting
 f = open('Baudo.txt', 'w') # name file
 # Write text to file
 f.write(Baudo)
