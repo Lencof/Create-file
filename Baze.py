@@ -10,7 +10,6 @@ f = open('Baze.txt', 'w')
 f.write(Baze)
 f.close()
 
-# if no mode is specified,
 # 'r'ead mode is assumed by default
 f = open('Baze.txt') 
 while True: 
