@@ -2,7 +2,6 @@
 # File_Ags.py
 
 Ags = '''
-Ags surprise
 '''
 
 # Open for 'w'riting
